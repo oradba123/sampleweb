@@ -1,0 +1,4 @@
+  {
+      "fileUris": ["https://raw.githubusercontent.com/oradba123/sampleweb/main/install_web.sh1"],
+      "commandToExecute": "./install_web.sh"
+    }
